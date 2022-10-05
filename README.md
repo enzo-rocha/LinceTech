@@ -1,2 +1,2 @@
 # LinceTech-Lista01
-Repositório destinado a exercícios do programa Lince Tech Academy.
+Lista 1 de atividades do programa LinceTech Academy.
